@@ -22,3 +22,5 @@ We chose the **World Air Quality Index by City and Coordinates** on Kaggle
 8. ### Gradient Boosting Machine : 
 9. ### Linear Descrimant Analysis : 
 10. ### XGBoost :
+
+
