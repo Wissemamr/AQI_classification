@@ -24,7 +24,7 @@ We chose the **World Air Quality Index by City and Coordinates** on Kaggle
 
 ## Classification Algortihms :
 
-6 / 10
+8 / 10
 
 1. ### K-Nearest Neighbors :
 - Classic K-NN ++
@@ -32,11 +32,11 @@ We chose the **World Air Quality Index by City and Coordinates** on Kaggle
 2. ### Logistic regression :  +++
 3. ### Decision Trees : +++
 4. ### Random Forests : +++
-5. ### Support Vector Machine : 
+5. ### Support Vector Machine : +++
 6. ### Naive Bayes : +++
 7. ### Neural Networks : +++
-8. ### Gradient Boosting Machine : 
-9. ### Linear Descrimant Analysis : 
+8. ### Gradient Boosting Machine : +++
+9. ### Linear Descrimant Analysis : +++
 10. ### XGBoost : +++
 
 
