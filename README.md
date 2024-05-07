@@ -41,6 +41,23 @@ We chose the **World Air Quality Index by City and Coordinates** on Kaggle
 
 
 
+## Benchmarking results
+
+| Algortihms              | Accuracy   | Recall     | Precision  | F1-score   |
+|-------------------------|---------   |--------    |----------- |----------  |
+| `K-Nearest-Neighbour`   | **0.9873** | **0.9873** | **0.9878** | **0.9868** |
+| `Decision Trees`        | **0.9989**|**0.9989** |**0.9991**   |0.9988           |
+| `Random Forests`        |         |        |           |           |
+| `Naive Bayes`           |         |        |           |           |
+| `Support Vector Machine`|         |        |           |           |
+| `Logistic Regression`   | **0.9729**  |  **0.9733**     | **0.9740**           |  **0.9702**           |
+| `Neural Networds`       |         |        |           |           |
+| `Gradient Boosting Machine` |     |        |           |           |
+| `Linear Descriminant Analysis`|   |        |           |           |
+| `XGBoost`               |         |        |           |           |
+
+
+
 
 
 
