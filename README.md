@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the Machine learning project which consists of 3 major parts : 
 1. Performing exploratory data analysis on a chosen dataset, including data wrangling, cleaning...
-2. IMplementing different classification algortihms and evaluating their perofrmance
+2. Implementing different classification algortihms and evaluating their perofrmance
 3. Benchmarking the classification resuls and interpreting them.
 
 
