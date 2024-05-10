@@ -29,16 +29,16 @@ I chose the **World Air Quality Index by City and Coordinates** on Kaggle
 
 I chose 10 different classification algortihms. In each one, I experimented with different techniques to enhance the results of the classification, like normalizing and scaling the data, performing hyperparamter tuning, using resampling techhniques to mitigate class imbalance etc.
 
-1. ### K-Nearest Neighbors 
-2. ### Logistic regression   
-3. ### Decision Trees 
-4. ### Random Forests  
-5. ### Support Vector Machine 
-6. ### Naive Bayes
-7. ### Neural Networks  
-8. ### Gradient Boosting Machine 
-9. ### Linear Descrimant Analysis 
-10. ### XGBoost 
+1. #### K-Nearest Neighbors 
+2. #### Logistic regression   
+3. #### Decision Trees 
+4. #### Random Forests  
+5. #### Support Vector Machine 
+6. #### Naive Bayes
+7. #### Neural Networks  
+8. #### Gradient Boosting Machine 
+9. #### Linear Descrimant Analysis 
+10. #### XGBoost 
 
 
 
