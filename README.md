@@ -1,9 +1,9 @@
 # Air Quality Index  (AQI) Multiclass Classification : 
 
 This repository contains the implementation of the Machine learning project which consists of 3 major parts : 
-1. Performing exploratory data analysis on a chosen dataset, including data wrangling, cleaning...
-2. Implementing different classification algortihms and evaluating their perofrmance
-3. Benchmarking the classification resuls and interpreting them.
+1. Performing exploratory data analysis on a chosen dataset, including data wrangling, cleaning etc.
+2. Implementing different classification algortihms and evaluating their perofrmance.
+3. Benchmarking the classification results and interpreting them.
 
 
 ## Dataset : 
@@ -15,7 +15,7 @@ I chose the **World Air Quality Index by City and Coordinates** on Kaggle
 
 
 
-### Exploratory Data Analysis : 
+## Exploratory Data Analysis : 
 - Understadning the structure of the data
 - Handling missing and duplicated values
 - Understanding the data distribution
