@@ -27,7 +27,7 @@ I chose the **World Air Quality Index by City and Coordinates** on Kaggle
 
 ## Classification Algorithms :
 
-I chose 10 different classification algortihms. In each one, I experimented with different techniques to enhance the results of the classification, like normalizing and scaling the data, performing hyperparamter tuning, using resampling techhniques to mitigate class imbalance etc.
+I chose 11 different classification algortihms. In each one, I experimented with different techniques to enhance the results of the classification, like normalizing and scaling the data, performing hyperparamter tuning, using resampling techhniques to mitigate class imbalance etc.
 
 1. #### K-Nearest Neighbors 
 2. #### Logistic regression   
@@ -56,8 +56,7 @@ I chose 10 different classification algortihms. In each one, I experimented with
 | **Gradient Boosting Machine**    | **0.9968** | **0.9968** | **0.9973** | **0.9967** |
 | **Linear Descriminant Analysis** | **0.9796** | **0.9796** | **0.9805** | **0.9793** |
 | **XGBoost**                      | **0.9982** | **0.9982** | **0.9985** | **0.9980** |
-
-
+| **AdaBoost**                     | **0.9965** | **0.9965** | **0.9973** | **0.9964** |
 
 
 
